@@ -20,5 +20,5 @@ layout:
 
 # 👋 Origami Docs
 
-[Origami](https://github.com/iCrazyBlaze/CustomItemsPlugin) is a Minecraft server plugin for [Paper](https://papermc.io) which allows a server admin to easily add configurable custom blocks and items using YAML configuration files, making use of resource packs and custom model data to allow **vanilla** clients to connect and play with your custom content.
+[Origami ](https://github.com/btarg/Origami)is a Minecraft server plugin for [Paper](https://papermc.io) which allows a server admin to easily add configurable custom blocks and items using YAML configuration files, making use of resource packs and custom model data to allow **vanilla** clients to connect and play with your custom content.
 
